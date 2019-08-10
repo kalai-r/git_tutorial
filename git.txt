@@ -1,0 +1,13 @@
+git config --global user.name "Kalai Ravi"
+git config --global user.email "17045277+kalai-r@users.noreply.github.com"
+git --version
+git init
+git add .
+git commit -m 'comments'
+git push (something on adding first time)
+git branch 
+git branch (branch name)
+git checkout (branch name)
+git checkout -b (branch name)
+git merge (branch name)
+git pull
